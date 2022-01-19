@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c4bb5a-6223-42fb-9fcf-874ac4834f65" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abis/DStorage.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/DStorage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abis/Migrations.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/Migrations.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/truffle-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/truffle-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +40,8 @@
       <updated>1640982882819</updated>
       <workItem from="1640982885181" duration="11170000" />
       <workItem from="1642587220193" duration="1678000" />
-      <workItem from="1642600384903" duration="3874000" />
+      <workItem from="1642600384903" duration="4143000" />
+      <workItem from="1642621091458" duration="113000" />
     </task>
     <servers />
   </component>
